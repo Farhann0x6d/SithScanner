@@ -6,8 +6,8 @@ SithScanner is a lightweight **browser extension** that detects and blocks techn
   
 It analyzes scripts and HTML in real time, looking for signs of:
 
-- 📋 Clipboard abuse (`navigator.clipboard.writeText`, silent copy attacks, etc.)
-- LOLBins (Living Off the Land Binaries like `powershell.exe`, `cmd.exe`, `curl.exe`, etc.)
+- 📋 Clipboard abuse through JS methods like (`navigator.clipboard.writeText`, etc.)
+- LOLBins that are copied to user clipboards (Living Off the Land Binaries like `powershell.exe`, `cmd.exe`, `curl.exe`, etc.)
 - Command-line switches (`-enc`, `-ec`, `base64 -d`, etc.)
 - 🌀 Heavy obfuscation techniques
 
