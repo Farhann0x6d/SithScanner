@@ -62,9 +62,6 @@ const clipboardPatterns = [
 
 
 
-//build function to detect telegram bots and look for strings in external .html files
-
-https://blackpointcyber.com/beyond-the-click-forensic-analysis-of-etherhiding-in-clickfix-campaign-infrastructure/
 
 function containsObfuscation(code) {
   const obfuscationPatterns = [
