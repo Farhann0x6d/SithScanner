@@ -2,7 +2,7 @@
 
 “An elegant defense for a more civilized age.”
 
-SithScanner is a lightweight **browser extension** that detects and blocks emerging web exploits such as **ClickFix** and **FileFix**. This will likely progress into a browser EDR as the project develops.
+SithScanner is a lightweight **browser extension** that detects and blocks techniques such as **ClickFix** and **FileFix**. This will likely progress into a browser EDR as the project develops.
   
 It analyzes scripts and HTML in real time, looking for signs of:
 
