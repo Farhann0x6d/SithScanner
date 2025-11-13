@@ -2,7 +2,7 @@
 
 “An elegant defense for a more civilized age.”
 
-SithScanner is a lightweight browser-based EDR/extension that goes beyond static URL blacklists. Instead of relying on reputation feeds, it actively analyzes in-browser behavior — detecting clipboard abuse, LOLBins, and obfuscated payloads (like those used in ClickFix campaigns) — and blocks them before they can execute.
+SithScanner is a lightweight browser-based EDR/extension that goes beyond static URL blacklists. Instead of relying on reputation feeds, it actively analyzes in-browser behavior, detecting clipboard abuse, LOLBins, and obfuscated payloads (like those used in ClickFix campaigns), and blocks them before they can execute.
   
 It analyzes scripts and HTML in real time, looking for signs of:
 
